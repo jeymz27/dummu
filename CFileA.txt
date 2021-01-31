@@ -1,4 +1,0 @@
-Test Merge Conflict
-Adding this text from the cbranch
-Adding this text from the c1branch
-Adding this new text from the cbranch
